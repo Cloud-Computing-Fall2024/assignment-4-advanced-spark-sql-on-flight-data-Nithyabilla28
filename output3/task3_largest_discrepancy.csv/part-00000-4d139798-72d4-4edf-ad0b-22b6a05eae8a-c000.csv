@@ -1,0 +1,91 @@
+Origin,OriginAirportName,OriginCity,Destination,DestinationAirportName,DestinationCity,CancellationRate
+JFK,John F. Kennedy International,New York,ORD,O'Hare International,Chicago,0.0
+BOS,Logan International,Boston,JFK,John F. Kennedy International,New York,0.0
+LAX,Los Angeles International,Los Angeles,DFW,Dallas/Fort Worth International,Dallas,0.0
+JFK,John F. Kennedy International,New York,MIA,Miami International,Miami,0.0
+DEN,Denver International,Denver,SEA,Seattle-Tacoma International,Seattle,0.0
+BOS,Logan International,Boston,DEN,Denver International,Denver,0.0
+DFW,Dallas/Fort Worth International,Dallas,SEA,Seattle-Tacoma International,Seattle,0.0
+SEA,Seattle-Tacoma International,Seattle,LAX,Los Angeles International,Los Angeles,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,ORD,O'Hare International,Chicago,0.0
+DFW,Dallas/Fort Worth International,Dallas,ORD,O'Hare International,Chicago,0.0
+DEN,Denver International,Denver,SFO,San Francisco International,San Francisco,0.0
+LAX,Los Angeles International,Los Angeles,MIA,Miami International,Miami,0.0
+DFW,Dallas/Fort Worth International,Dallas,DEN,Denver International,Denver,0.0
+BOS,Logan International,Boston,SEA,Seattle-Tacoma International,Seattle,0.0
+JFK,John F. Kennedy International,New York,SFO,San Francisco International,San Francisco,0.0
+ORD,O'Hare International,Chicago,BOS,Logan International,Boston,0.0
+MIA,Miami International,Miami,SEA,Seattle-Tacoma International,Seattle,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,DEN,Denver International,Denver,0.0
+SFO,San Francisco International,San Francisco,ORD,O'Hare International,Chicago,0.0
+SFO,San Francisco International,San Francisco,DFW,Dallas/Fort Worth International,Dallas,0.0
+BOS,Logan International,Boston,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,SFO,San Francisco International,San Francisco,0.0
+ORD,O'Hare International,Chicago,DEN,Denver International,Denver,0.0
+SFO,San Francisco International,San Francisco,MIA,Miami International,Miami,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,JFK,John F. Kennedy International,New York,0.0
+JFK,John F. Kennedy International,New York,DEN,Denver International,Denver,0.0
+DFW,Dallas/Fort Worth International,Dallas,MIA,Miami International,Miami,0.0
+MIA,Miami International,Miami,ORD,O'Hare International,Chicago,0.0
+ORD,O'Hare International,Chicago,MIA,Miami International,Miami,0.0
+SFO,San Francisco International,San Francisco,DEN,Denver International,Denver,0.0
+SFO,San Francisco International,San Francisco,SEA,Seattle-Tacoma International,Seattle,0.0
+MIA,Miami International,Miami,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+LAX,Los Angeles International,Los Angeles,JFK,John F. Kennedy International,New York,0.0
+ORD,O'Hare International,Chicago,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+SEA,Seattle-Tacoma International,Seattle,SFO,San Francisco International,San Francisco,0.0
+DFW,Dallas/Fort Worth International,Dallas,JFK,John F. Kennedy International,New York,0.0
+MIA,Miami International,Miami,SFO,San Francisco International,San Francisco,0.0
+MIA,Miami International,Miami,JFK,John F. Kennedy International,New York,0.0
+DEN,Denver International,Denver,JFK,John F. Kennedy International,New York,0.0
+JFK,John F. Kennedy International,New York,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+JFK,John F. Kennedy International,New York,DFW,Dallas/Fort Worth International,Dallas,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,MIA,Miami International,Miami,0.0
+DEN,Denver International,Denver,LAX,Los Angeles International,Los Angeles,0.0
+SFO,San Francisco International,San Francisco,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+MIA,Miami International,Miami,BOS,Logan International,Boston,0.0
+MIA,Miami International,Miami,LAX,Los Angeles International,Los Angeles,0.0
+ORD,O'Hare International,Chicago,DFW,Dallas/Fort Worth International,Dallas,0.0
+DFW,Dallas/Fort Worth International,Dallas,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+ORD,O'Hare International,Chicago,JFK,John F. Kennedy International,New York,0.0
+DEN,Denver International,Denver,ORD,O'Hare International,Chicago,0.0
+LAX,Los Angeles International,Los Angeles,DEN,Denver International,Denver,0.0
+LAX,Los Angeles International,Los Angeles,SFO,San Francisco International,San Francisco,0.0
+SFO,San Francisco International,San Francisco,BOS,Logan International,Boston,0.0
+SEA,Seattle-Tacoma International,Seattle,DEN,Denver International,Denver,0.0
+BOS,Logan International,Boston,DFW,Dallas/Fort Worth International,Dallas,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,BOS,Logan International,Boston,0.0
+SEA,Seattle-Tacoma International,Seattle,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,SEA,Seattle-Tacoma International,Seattle,0.0
+DEN,Denver International,Denver,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+SEA,Seattle-Tacoma International,Seattle,ORD,O'Hare International,Chicago,0.0
+SEA,Seattle-Tacoma International,Seattle,BOS,Logan International,Boston,0.0
+JFK,John F. Kennedy International,New York,BOS,Logan International,Boston,0.0
+DFW,Dallas/Fort Worth International,Dallas,LAX,Los Angeles International,Los Angeles,0.0
+DEN,Denver International,Denver,MIA,Miami International,Miami,0.0
+JFK,John F. Kennedy International,New York,SEA,Seattle-Tacoma International,Seattle,0.0
+LAX,Los Angeles International,Los Angeles,ATL,Hartsfield-Jackson Atlanta International,Atlanta,0.0
+BOS,Logan International,Boston,ORD,O'Hare International,Chicago,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,LAX,Los Angeles International,Los Angeles,0.0
+ORD,O'Hare International,Chicago,SFO,San Francisco International,San Francisco,0.0
+DFW,Dallas/Fort Worth International,Dallas,SFO,San Francisco International,San Francisco,0.0
+LAX,Los Angeles International,Los Angeles,BOS,Logan International,Boston,0.0
+SFO,San Francisco International,San Francisco,JFK,John F. Kennedy International,New York,0.0
+JFK,John F. Kennedy International,New York,LAX,Los Angeles International,Los Angeles,0.0
+DEN,Denver International,Denver,DFW,Dallas/Fort Worth International,Dallas,0.0
+SFO,San Francisco International,San Francisco,LAX,Los Angeles International,Los Angeles,0.0
+ORD,O'Hare International,Chicago,SEA,Seattle-Tacoma International,Seattle,0.0
+MIA,Miami International,Miami,DFW,Dallas/Fort Worth International,Dallas,0.0
+SEA,Seattle-Tacoma International,Seattle,DFW,Dallas/Fort Worth International,Dallas,0.0
+DEN,Denver International,Denver,BOS,Logan International,Boston,0.0
+MIA,Miami International,Miami,DEN,Denver International,Denver,0.0
+LAX,Los Angeles International,Los Angeles,ORD,O'Hare International,Chicago,0.0
+DFW,Dallas/Fort Worth International,Dallas,BOS,Logan International,Boston,0.0
+BOS,Logan International,Boston,SFO,San Francisco International,San Francisco,0.0
+BOS,Logan International,Boston,MIA,Miami International,Miami,0.0
+BOS,Logan International,Boston,LAX,Los Angeles International,Los Angeles,0.0
+SEA,Seattle-Tacoma International,Seattle,MIA,Miami International,Miami,0.0
+SEA,Seattle-Tacoma International,Seattle,JFK,John F. Kennedy International,New York,0.0
+ATL,Hartsfield-Jackson Atlanta International,Atlanta,DFW,Dallas/Fort Worth International,Dallas,0.0
+ORD,O'Hare International,Chicago,LAX,Los Angeles International,Los Angeles,0.0
+LAX,Los Angeles International,Los Angeles,SEA,Seattle-Tacoma International,Seattle,0.0
